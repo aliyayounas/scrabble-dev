@@ -1,5 +1,5 @@
 # scrabble-dev
-Dev test
+Dev test with tasks
 Test Readme
 
 PHP Version: 7.4
